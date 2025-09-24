@@ -1,0 +1,28 @@
+[Lien officiel GitHub Unity.gitignore : https://github.com/github/gitignore/blob/main/Unity.gitignore]
+
+# Unity generated folders
+[Ligne typique du .gitignore Unity]
+[Laisser le dossier Library/ ignoré comme suit:]
+[Ligne dans le .gitignore:]
+[Ligne]
+[Ligne]
+[Ligne]
+
+[Liste simplifiée :]
+[Ligne]
+[Ligne]
+[Ligne]
+[Ligne]
+[Ligne]
+[Ligne]
+[Ligne]
+[Ligne]
+[Ligne]
+Library/
+Temp/
+Obj/
+Build/
+Builds/
+Logs/
+UserSettings/
+MemoryCaptures/
